@@ -1,9 +1,11 @@
 Everyone posts the demo. I post what happened next.
 
-This profile holds negative results with their controls, and the code that produced them. Every repository is a full run of something that sounded plausible, including the runs that say it did not work.
+This profile holds negative results with their controls, and the code that produced them. Every repository is a full run of something that sounded plausible, including the runs that say it did not work. Some repositories are the tools I use to check those claims.
 
 | repository | what it is | main result |
 |---|---|---|
+| [0x-runs](https://github.com/0xInsiderhq/0x-runs) | Every AI model run I post on X: the prompt word for word, the clock, every stop, what it made and what went wrong | 2 runs so far; the cyberpunk ceiling took 7h 35m, 3h 09m of it idle |
+| [codex-watch](https://github.com/0xInsiderhq/codex-watch) | Checks OpenAI's public Codex source every 15 minutes and logs new models, plan names, feature flags and URLs | First entry on 3 Oct 2026: GPT-6.1 Sol moved above Astra, GPT-6 Sol became "previous generation" |
 | [trading-bot-trend](https://github.com/0xInsiderhq/trading-bot-trend) | RSI + MACD paper-trading bot for Binance Spot Testnet with a daily EMA50 filter, ATR stop and trailing stop | 14 live paper trades and +30.71 USDT; the same rules lose 316 USDT in the backtest |
 | [backtest-lab](https://github.com/0xInsiderhq/backtest-lab) | Candle-level BTC/USDT 4h backtest of three paper-trading bot strategies, 2024 to 2026, 0.1 percent fee | 145 trades and -998 USDT for the trend v1 rules |
 | [trading-bot-mr](https://github.com/0xInsiderhq/trading-bot-mr) | Mean-reversion paper-trading bot for Binance Spot Testnet, gated by a daily ADX + EMA50 flat-market filter | 0 live trades since 2026-08-28; the filter never opened |
