@@ -9,7 +9,7 @@ Everyone posts the demo. I post what happened next.
 | game | what it is | play |
 |---|---|---|
 | Ashen Keep | Doom-like shooter with 4 guns, 2 bosses, a labyrinth and a lava courtyard, built by Claude in one chat | [play in browser](https://claude.ai/artifact/EFyS1ENAS41nJufLt2ANBu) |
-| [Wild Fields 1648](https://github.com/0xInsiderhq/wild-fields-1648) | RTS on the 1648 Ukrainian steppe, written by Claude Opus 5.5, three.js and 25 Poly Haven scans | [play in browser](https://0xinsiderhq.github.io/wild-fields-1648/) |
+| [Wild Fields 1648](https://github.com/0xInsiderhq/wild-fields-1648) | RTS on the 1648 Ukrainian steppe, written by Claude Opus 5.5, three.js and 20 Poly Haven models and 12 textures | [play in browser](https://0xinsiderhq.github.io/wild-fields-1648/) |
 
 ## Latest runs
 
