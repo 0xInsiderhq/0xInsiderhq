@@ -1,6 +1,15 @@
 Everyone posts the demo. I post what happened next.
 
-<a href="https://claude.ai/artifact/EFyS1ENAS41nJufLt2ANBu"><img src="media/ashen_keep.webp" width="640" alt="Ashen Keep gameplay, a Doom-like shooter Claude built in one chat"></a>
+<table>
+<tr>
+<td><a href="https://claude.ai/artifact/EFyS1ENAS41nJufLt2ANBu"><img src="media/ashen_keep.webp" width="400" alt="Ashen Keep gameplay, a Doom-like shooter Claude built in one chat"></a></td>
+<td><a href="https://github.com/0xInsiderhq/0x-runs/tree/main/runs/2026-10-31_worm-space-program-ep1"><img src="media/worms_ep1.webp" width="400" alt="Worm Space Program, episode 1: the tin-can rocket launches and explodes"></a></td>
+</tr>
+<tr>
+<td>Ashen Keep, a Doom-like shooter Claude built in one chat</td>
+<td>Worm Space Program, ep. 1: a 31-second Blender short written in code</td>
+</tr>
+</table>
 
 **[Ashen Keep](https://claude.ai/artifact/EFyS1ENAS41nJufLt2ANBu)** is a Doom-like shooter Claude built for me in one chat. 4 guns, 2 bosses, a maze and a lava courtyard, three.js in a browser tab. Doom took 6 people and 13 months in 1993 ([Wikipedia](https://en.wikipedia.org/wiki/Development_of_Doom)). Click the gif to play, desktop browser with keyboard and mouse.
 
@@ -17,6 +26,7 @@ Every AI model run I post on X lands in [0x-runs](https://github.com/0xInsiderhq
 
 | date | run | result |
 |---|---|---|
+| 31 Oct | [Worm Space Program, episode 1](https://github.com/0xInsiderhq/0x-runs/tree/main/runs/2026-10-31_worm-space-program-ep1) | 31 s Blender short in code, 71 min on a Colab L4, the explosion took 3 tries |
 | 24 Oct | [Claude Code left alone with a trap](https://github.com/0xInsiderhq/0x-runs/tree/main/runs/2026-10-24_claude-code-trap) | Kept the monitoring the shortcut would delete, 6 of 7 claims true |
 | 17 Oct | [Clip B, a glass hero music video on a Lyria song](https://github.com/0xInsiderhq/0x-runs/tree/main/runs/2026-10-17_clip-b-glass-hero-lyria) | 46 s clip, 17.8 h of render, one crash in its own code |
 | 16 Oct | [Loop stunt, a car stunt in Blender on Colab](https://github.com/0xInsiderhq/0x-runs/tree/main/runs/2026-10-16_loop-stunt-blender-colab) | v1 and v2, 360 frames each, five rounds of notes |
