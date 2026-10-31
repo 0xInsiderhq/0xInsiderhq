@@ -2,8 +2,8 @@ Everyone posts the demo. I post what happened next.
 
 <table>
 <tr>
-<td><a href="https://claude.ai/artifact/EFyS1ENAS41nJufLt2ANBu"><img src="media/ashen_keep.webp" width="390" alt="Ashen Keep gameplay, a Doom-like shooter Claude built in one chat"></a></td>
-<td><a href="https://github.com/0xInsiderhq/0x-runs/tree/main/runs/2026-10-31_worm-space-program-ep1"><img src="media/worms_ep1.webp" width="390" alt="Worm Space Program, episode 1: the tin-can rocket launches and explodes"></a></td>
+<td width="50%"><a href="https://claude.ai/artifact/EFyS1ENAS41nJufLt2ANBu"><img src="media/ashen_keep.webp" width="390" alt="Ashen Keep gameplay, a Doom-like shooter Claude built in one chat"></a></td>
+<td width="50%"><a href="https://github.com/0xInsiderhq/0x-runs/tree/main/runs/2026-10-31_worm-space-program-ep1"><img src="media/worms_ep1.webp" width="390" alt="Worm Space Program, episode 1: the tin-can rocket launches and explodes"></a></td>
 </tr>
 <tr>
 <td>Ashen Keep, a Doom-like shooter Claude built in one chat</td>
